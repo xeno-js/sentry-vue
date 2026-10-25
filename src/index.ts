@@ -1,0 +1,1 @@
+export { withSentryVueLogger } from './infrastructure'
