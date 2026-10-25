@@ -1,6 +1,6 @@
 {
   "name": "@xeno-js/sentry-vue",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Sentry error tracking and observability integration for Xeno.js with Vue 3 support, router tracing, session replay, and TypeScript.",
   "repository": {
     "type": "git",
