@@ -1,3 +1,5 @@
+## [1.0.2](https://github.com/xeno-js/sentry-vue/compare/v1.0.0...v1.0.2) (2026-11-13)
+
 # [1.0.0](https://github.com/xeno-js/sentry-vue/compare/a746616abc6284ec687a502e1c68c741db9224c4...v1.0.0) (2026-10-25)
 
 ### Features
